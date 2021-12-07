@@ -1,0 +1,17 @@
+339d32c (HEAD -> master, origin/master, origin/develop, origin/HEAD, develop) HEAD@{0}: merge develop: Fast-forward
+823339d HEAD@{1}: checkout: moving from develop to master
+339d32c (HEAD -> master, origin/master, origin/develop, origin/HEAD, develop) HEAD@{2}: commit (merge): Merge index.html
+21152d4 (origin/images, images) HEAD@{3}: merge images: Fast-forward
+3fdeb45 HEAD@{4}: checkout: moving from styles to develop
+c7815b6 (origin/styles, styles) HEAD@{5}: commit: Include css in html
+b4a8d52 HEAD@{6}: commit: Add styles.css
+3fdeb45 HEAD@{7}: checkout: moving from develop to styles
+3fdeb45 HEAD@{8}: checkout: moving from images to develop
+21152d4 (origin/images, images) HEAD@{9}: commit: Change index.html
+aa99770 HEAD@{10}: commit: Add images
+3fdeb45 HEAD@{11}: checkout: moving from develop to images
+3fdeb45 HEAD@{12}: commit: Add index.html
+823339d HEAD@{13}: checkout: moving from master to develop
+823339d HEAD@{14}: commit: Add readme.txt
+f78c160 HEAD@{15}: pull: Fast-forward
+d191cbf HEAD@{16}: clone: from https://github.com/kirillmedvedev13/gitlab2.git
